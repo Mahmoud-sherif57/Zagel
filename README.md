@@ -6,6 +6,7 @@ Zagel is a Flutter-based news application that delivers the latest news in an en
 
 - Fetch and display the latest news
 - Categorized news sections
+- Save favorite articles using SharedPreferences
 - Light and dark theme support
 - Smooth and responsive UI
 
@@ -30,45 +31,33 @@ Zagel is a Flutter-based news application that delivers the latest news in an en
 
 ## Screenshots
 
+![1](https://github.com/user-attachments/assets/83d7ce0b-8359-47b3-ae5c-fbdbebb56fac)
 
 
-&#x20; \##Screenshots
-
-&#x20;&#x20;
-
-![1]\([https://github.com/user-attachments/assets/15b48142-87b4-47d8-9917-1411fe673099](https://github.com/user-attachments/assets/15b48142-87b4-47d8-9917-1411fe673099))
+![2](https://github.com/user-attachments/assets/8290c350-f6bd-48cb-a2c9-7d094c72128f)
 
 
-
-![2]\([https://github.com/user-attachments/assets/3e114df2-1555-4774-9864-4393286c48d3](https://github.com/user-attachments/assets/3e114df2-1555-4774-9864-4393286c48d3))
-
+![3](https://github.com/user-attachments/assets/b68d3c84-c9b3-4ab9-b678-9ad19682bd0b)
 
 
-![3]\([https://github.com/user-attachments/assets/4daf1aa9-ecf7-4080-8dde-3328c0c546be](https://github.com/user-attachments/assets/4daf1aa9-ecf7-4080-8dde-3328c0c546be))
+![4](https://github.com/user-attachments/assets/4df4264c-322e-455b-951a-77dfc52d0999)
 
 
-
-![4]\([https://github.com/user-attachments/assets/bde467b3-86f0-4fc8-abb9-7d5faac4c68d](https://github.com/user-attachments/assets/bde467b3-86f0-4fc8-abb9-7d5faac4c68d))
-
+![5](https://github.com/user-attachments/assets/44ce4115-be41-406c-bd39-35e568e701ea)
 
 
-![5]\([https://github.com/user-attachments/assets/2f3e404d-44cd-45f3-adaf-b98809bab599](https://github.com/user-attachments/assets/2f3e404d-44cd-45f3-adaf-b98809bab599))
+![6](https://github.com/user-attachments/assets/18f3ce81-ceae-42b3-bc7c-5fa6075909b3)
 
 
-
-![6]\([https://github.com/user-attachments/assets/a49168fe-2c11-4793-878e-41b10ecc918c](https://github.com/user-attachments/assets/a49168fe-2c11-4793-878e-41b10ecc918c))
-
+![7](https://github.com/user-attachments/assets/a3ac39ad-d05a-4ee9-b150-8ac926574f78)
 
 
-![7]\([https://github.com/user-attachments/assets/9d28911e-e4f4-4b13-b38c-7565462bad82](https://github.com/user-attachments/assets/9d28911e-e4f4-4b13-b38c-7565462bad82))
+![8](https://github.com/user-attachments/assets/b2e8b8c5-be13-45c9-91ba-c1bf1975e697)
 
 
+![9](https://github.com/user-attachments/assets/ed848386-ca5b-46ef-a77c-7c2b1c722b2d)
 
-![8]\([https://github.com/user-attachments/assets/92d33ad5-42cc-4cfb-906d-f8c87c359518](https://github.com/user-attachments/assets/92d33ad5-42cc-4cfb-906d-f8c87c359518))
-
-
-
-![9]\([https://github.com/user-attachments/assets/3b5fb561-88b3-4168-8d41-3f90f6c94ac2)Technologies](https://github.com/user-attachments/assets/3b5fb561-88b3-4168-8d41-3f90f6c94ac2\)Technologies) Used
+## Technologies Used
 
 - **Flutter** for frontend development
 - **Dart** as the programming language
